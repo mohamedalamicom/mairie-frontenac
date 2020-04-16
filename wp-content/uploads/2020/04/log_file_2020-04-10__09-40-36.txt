@@ -1,0 +1,653 @@
+
+---Downloaded files---
+The import files for: Tour Operator were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://127.0.0.1/mairie-frontenac
+Data file = C:\UwAmp\www\mairie-frontenac/wp-content/uploads/rara-demo-pack/tour-operator-demo-content/content/tour-operator.xml
+Widget file = C:\UwAmp\www\mairie-frontenac/wp-content/uploads/rara-demo-pack/tour-operator-demo-content/content/tour-operator.wie
+Customizer file = C:\UwAmp\www\mairie-frontenac/wp-content/uploads/rara-demo-pack/tour-operator-demo-content/content/tour-operator.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 7
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 8
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 9
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 10
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 11
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 12
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 13
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 14
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+------
+Completed AJAX call number: 15
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+
+
+---Importing content---
+[WARNING] Failed to import destination Bhutan
+[WARNING] Failed to import trip_types Budget travel
+[WARNING] Failed to import trip_types Child-friendly
+[WARNING] Failed to import trip_types Cultural
+[WARNING] Failed to import activities Cultural Tours
+[WARNING] Failed to import trip_types Dog-friendly
+[WARNING] Failed to import activities Hiking
+[WARNING] Failed to import trip_types Home stay
+[WARNING] Failed to import destination India
+[WARNING] Failed to import destination Japan
+[WARNING] Failed to import activities Jungle Safari
+[WARNING] Failed to import activities Kayaking
+[WARNING] Failed to import destination London
+[WARNING] Failed to import destination Maldives
+[WARNING] Failed to import destination Morroco
+[WARNING] Failed to import trip_types Nature Walk
+[WARNING] Failed to import destination Nepal
+[WARNING] Failed to import activities Paragliding
+[WARNING] Failed to import destination Paris
+[WARNING] Failed to import activities Peak Climbing
+[WARNING] Failed to import destination Prague
+[WARNING] Failed to import activities River Rafting
+[WARNING] Failed to import activities Road Cycling
+[WARNING] Failed to import destination San Francisco
+[WARNING] Failed to import activities Skiing
+[WARNING] Failed to import destination Tibet
+[WARNING] Failed to import destination Venice
+[WARNING] Failed to import trip_types Volunteer trips
+[WARNING] Failed to import trip_types Weekend Trips
+[WARNING] Failed to import "": Invalid post type 
+[WARNING] Could not find the post parent for "rough-horn-2146179_1920(1)" (post #87)
+[WARNING] Could not find the post parent for "soroush-karimi-291353(1)" (post #90)
+[WARNING] Could not find the post parent for "clarisse-meyer-304306(1)" (post #93)
+[WARNING] Could not find the post parent for "paraglider-1973020_1920(1)" (post #97)
+[WARNING] Could not find the post parent for "desert-2549833_1920(1)" (post #134)
+[WARNING] Could not find the post parent for "greenland-81241_1920(1)" (post #137)
+[WARNING] Could not find the post parent for "golden-gate-bridge-1031321_1920(1)" (post #162)
+[WARNING] Could not find the post parent for "children-1807511_1920(1)" (post #171)
+[WARNING] Could not find the post parent for "theravada-buddhism-1823527_1920(1)" (post #213)
+[WARNING] Could not find the post parent for "scott-umstattd-87129(1)" (post #236)
+[WARNING] Could not find the post parent for "wu-jianxiong-241123(2)" (post #237)
+[WARNING] Could not find the post parent for "pexels-photo-241322(1)" (post #238)
+[WARNING] Could not find the post parent for "chinh-le-duc-436033(1)" (post #239)
+[WARNING] Could not find the post parent for "kinzig-fischer-bach-black-forest-water-158316(1)(1)" (post #240)
+[WARNING] Could not find the post parent for "pexels-photo-238622(1)(1)" (post #241)
+[WARNING] Could not find the post parent for "holly-mandarich-326680(2)" (post #243)
+[WARNING] Could not find the post parent for "wu-jianxiong-239318(1)" (post #247)
+[WARNING] Could not find the post parent for "pavel-l-864(1)" (post #248)
+[WARNING] Could not find the post parent for "niko-soikkeli-333391(1)" (post #250)
+[WARNING] Could not find the post parent for "paris-1175022_1920(1)" (post #263)
+[WARNING] Could not find the post parent for "kalen-emsley-94128(1)" (post #391)
+[WARNING] Could not find the post parent for "jan-niclas-aberle-309470(1)" (post #392)
+[WARNING] Could not find the menu object for "" (post #121)
+[WARNING] Could not find the menu object for "Contact" (post #131)
+[WARNING] Could not find the menu object for "" (post #164)
+[WARNING] Could not find the menu object for "" (post #298)
+[WARNING] Could not find the menu object for "" (post #299)
+[WARNING] Could not find the menu object for "" (post #300)
+[WARNING] Could not find the menu object for "" (post #301)
+[WARNING] Could not find the menu object for "" (post #302)
+[WARNING] Could not find the menu object for "" (post #303)
+[WARNING] Could not find the menu object for "" (post #304)
+[WARNING] Could not find the menu object for "" (post #305)
+[WARNING] Could not find the post parent for "santorini-1972883_1920 (1)" (post #1304)
+[WARNING] Could not find the post parent for "tower-2223305_1920 (1)" (post #1306)
+[WARNING] Could not find the menu object for "" (post #306)
+[WARNING] Could not find the menu object for "" (post #307)
+[WARNING] Could not find the menu object for "" (post #308)
+[WARNING] Could not find the menu object for "" (post #309)
+[WARNING] Could not find the menu object for "" (post #310)
+[WARNING] Could not find the menu object for "" (post #311)
+[WARNING] Could not find the menu object for "" (post #312)
+[WARNING] Could not find the menu object for "" (post #313)
+[WARNING] Could not find the menu object for "" (post #314)
+[WARNING] Could not find the menu object for "" (post #315)
+[WARNING] Could not find the menu object for "" (post #316)
+[WARNING] Could not find the menu object for "" (post #317)
+[WARNING] Could not find the menu object for "" (post #318)
+[WARNING] Could not find the menu object for "" (post #319)
+[WARNING] Could not find the menu object for "" (post #320)
+[WARNING] Could not find the menu object for "" (post #321)
+[WARNING] Could not find the menu object for "" (post #322)
+[WARNING] Could not find the menu object for "" (post #323)
+[WARNING] Could not find the menu object for "Post Page" (post #324)
+[WARNING] Could not find the menu object for "" (post #328)
+[WARNING] Could not find the menu object for "" (post #329)
+[WARNING] Could not find the menu object for "" (post #330)
+[WARNING] Could not find the menu object for "" (post #331)
+[WARNING] Could not find the menu object for "" (post #341)
+[WARNING] Could not find the menu object for "" (post #342)
+[WARNING] Could not find the menu object for "" (post #343)
+[WARNING] Could not find the menu object for "" (post #344)
+[WARNING] Could not find the menu object for "" (post #351)
+[WARNING] Could not find the menu object for "" (post #352)
+[WARNING] Could not find the menu object for "" (post #353)
+[WARNING] Could not find the menu object for "" (post #354)
+[WARNING] Could not find the menu object for "" (post #378)
+[WARNING] Could not find the menu object for "" (post #379)
+[WARNING] Could not find the menu object for "" (post #380)
+[WARNING] Could not find the menu object for "" (post #381)
+[WARNING] Could not find the menu object for "" (post #382)
+[WARNING] Could not find the menu object for "" (post #383)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+wte-sidebar-id : Sidebar does not exist in theme (moving widget to Inactive)
+
+Image - No Title - Imported to Inactive
+Menu de navigation - Activities - Imported to Inactive
+Menu de navigation - Trip Types - Imported to Inactive
+
+Sidebar : 
+
+Rechercher - No Title - Widget already exists
+travel_agency_featured_widget - No Title - Site does not support widget
+Articles récents - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Catégories - No Title - Widget already exists
+Méta - No Title - Widget already exists
+raratheme_recent_post - Recent Posts - Site does not support widget
+Catégories - Categories - Imported
+raratheme_popular_post - Popular Posts - Site does not support widget
+
+Footer One : 
+
+Texte - Contact Info - Imported
+
+Footer Two : 
+
+Menu de navigation - Destinations - Imported
+
+Footer Three : 
+
+Menu de navigation - Activities - Imported
+
+Footer Four : 
+
+Menu de navigation - Trip Types - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
